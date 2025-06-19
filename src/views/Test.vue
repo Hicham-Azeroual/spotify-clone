@@ -36,7 +36,7 @@
     <div class="flex items-center gap-5">
       <!-- Explore Premium -->
       <button class="text-white font-bold hover:text-spotify-green transition-colors text-sm">
-        Explore Premium !
+        Explore Premium !!!!
       </button>
 
       <!-- Install App -->
