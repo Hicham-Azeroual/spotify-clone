@@ -43,3 +43,6 @@ jobs:
       with:
         name: build-output-${{ matrix.node-version }}
         path: dist
+
+    - name: Echo Hello World
+      run: echo "Hello World"
